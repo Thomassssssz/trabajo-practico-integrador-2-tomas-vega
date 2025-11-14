@@ -21,3 +21,5 @@ La aplicación permite:
 - **Custom Hooks**
 - **Componentes funcionales**
 - **Y me ayude bastante con la IA**
+
+tomas
