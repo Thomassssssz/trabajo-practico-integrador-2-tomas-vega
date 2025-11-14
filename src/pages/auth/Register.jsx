@@ -1,3 +1,4 @@
+// Formulario de registro con manejo de estado y errores
 import React, { useState } from "react";
 import { useNavigate, Link } from "react-router-dom";
 import useForm from "../../hooks/useForm";
