@@ -1,5 +1,6 @@
 import React from "react";
 
+// Reviso el diseño del loading para que se vea mejor centrado
 const Loading = () => {
   return (
     <div className="flex justify-center items-center h-full">
