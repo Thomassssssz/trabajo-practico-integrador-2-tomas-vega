@@ -1,3 +1,4 @@
+// Protege rutas que requieren sesión activa
 import { useEffect, useState } from "react";
 import { Navigate } from "react-router-dom";
 import Loading from "../components/Loading.jsx";
