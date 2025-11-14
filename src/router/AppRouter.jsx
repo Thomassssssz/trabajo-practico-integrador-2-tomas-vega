@@ -1,3 +1,5 @@
+// Configuración principal de rutas de la aplicación
+
 import { Routes, Route, Navigate } from "react-router-dom";
 
 import Navbar from "../components/Navbar.jsx";
