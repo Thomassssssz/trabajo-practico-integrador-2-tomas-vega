@@ -1,3 +1,4 @@
+// Muestra la información del usuario autenticado
 import { useEffect, useState } from "react";
 import Loading from "../components/Loading";
 
