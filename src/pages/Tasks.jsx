@@ -8,7 +8,7 @@ const Tasks = () => {
     description: "",
     is_completed: false,
   });
-
+  // Ajuste de código para organizar el CRUD
   const [tasks, setTasks] = useState([]);
   const [loading, setLoading] = useState(true);
   const [saving, setSaving] = useState(false);
