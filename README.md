@@ -1,16 +1,23 @@
-# React + Vite
+# Trabajo Práctico Integrador III
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este proyecto corresponde al Trabajo Práctico Integrador, cuyo objetivo es desarrollar una aplicación frontend completa utilizando React, consumiendo un backend existente mediante una API REST.
 
-Currently, two official plugins are available:
+La aplicación permite:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Registrar usuarios
+- Iniciar sesión con cookies de sesión
+- Gestionar tareas personales (crear, editar, eliminar, marcar completadas)
+- Visualizar datos del perfil
+- Navegación protegida según autenticación
+- Interfaz moderna y responsive con Tailwind CSS
 
-## React Compiler
+## Tecnologías utilizadas
 
-The React Compiler is currently not compatible with SWC. See [this issue](https://github.com/vitejs/vite-plugin-react/issues/428) for tracking the progress.
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **React + Vite**
+- **JavaScript (ESModules)**
+- **React Router DOM**
+- **Tailwind CSS**
+- **Fetch API con credentials: 'include'**
+- **Custom Hooks**
+- **Componentes funcionales**
+- **Y me ayude bastante con la IA**
