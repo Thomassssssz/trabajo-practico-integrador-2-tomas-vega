@@ -1,3 +1,4 @@
+// Página de bienvenida con estadísticas básicas
 import React, { useEffect, useState } from "react";
 import Loading from "../components/Loading";
 
