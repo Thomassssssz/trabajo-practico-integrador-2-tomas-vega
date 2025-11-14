@@ -1,3 +1,5 @@
+// Página de login con manejo de estados y errores
+
 import React, { useState } from "react";
 import { useNavigate, Link } from "react-router-dom";
 import useForm from "../../hooks/useForm";
