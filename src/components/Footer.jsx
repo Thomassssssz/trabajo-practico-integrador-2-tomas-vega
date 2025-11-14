@@ -1,5 +1,5 @@
 import React from "react";
-
+// Ajusto el footer para que quede bien alineado en toda la app
 const Footer = () => {
   return (
     <footer className="bg-gray-800 text-white py-4 text-center">
